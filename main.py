@@ -23,6 +23,7 @@ async def on_ready(message):
     channel = bot.get_channel(CHANNEL_TOKEN)
     await message.channel.send("Hello World! Framed Bot is now online")
 
+
 meio_jogo = 0
 index_filme = 1000
 index_imagem_filme = 1
