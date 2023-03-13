@@ -34,7 +34,7 @@ async def on_message(message):
         global index_filme
         global index_imagem_filme
         if not meio_jogo:
-            index_filme = random.randint(31, 370)
+            index_filme = random.randint(31, 367)
             index_imagem_filme = 1
         if message.content.startswith("!framed"):
             meio_jogo = 1
