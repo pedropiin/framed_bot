@@ -1,2 +1,2 @@
 # framed_bot
-Simple discord bot that plays Framed daily in a server
+Simple discord bot that enables server members to play Framed
